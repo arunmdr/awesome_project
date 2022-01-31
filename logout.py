@@ -1,1 +1,1 @@
-print('logout page')
+print('logout page functionality')
